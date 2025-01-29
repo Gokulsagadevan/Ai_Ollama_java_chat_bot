@@ -1,0 +1,48 @@
+{
+  "personal_info": {
+    "name": "Gokul Sagadevan",
+    "location": "Bangalore, India",
+    "phone": "+91-7022418042",
+    "email": "GokulSagadevan@gmail.com",
+    "linkedin": "linkedin.com/in/gokul-sagadevan",
+    "bold_profile": "bold.pro Profile",
+    "current_role": "Backend Developer",
+    "experience": "3+ years of experience in Java and Spring Boot"
+  },
+  "summary": "Backend Developer with 3+ years of experience in Java and Spring Boot, delivering scalable and high-performance systems. Proficient in microservices architecture, REST API development, and optimizing CI/CD pipelines to streamline deployments and improve system reliability.",
+  "skills": {
+    "programming_languages": ["Java (Core, Multithreading, Collections)", "Python (Basics)"],
+    "technologies": ["Spring Boot", "Hibernate", "JPA", "Kafka", "Redis", "REST APIs", "OAuth2/JWT"],
+    "tools": ["Docker", "Git", "Jenkins", "Prometheus", "Grafana"],
+    "development_practices": ["CI/CD Pipelines", "Event-Driven Architecture", "Agile"]
+  },
+  "experience": [
+    {
+      "role": "Software Developer",
+      "company": "CommScope",
+      "location": "Bangalore, India",
+      "duration": "June 2022 - Present",
+      "technologies": ["Java", "Spring Boot", "REST APIs", "Kafka", "Redis", "Jenkins", "Docker"],
+      "key_responsibilities": [
+        "Designed and implemented a Role-Based Access Control (RBAC) system using Java and Spring Boot, improving access management for 1,000+ users and reducing manual errors by 30%.",
+        "Enhanced SSO authentication systems by integrating OAuth2 protocols, reducing login times by 25% while ensuring secure cross-platform access.",
+        "Boosted system reliability and scalability by 40% during peak traffic by optimizing Tier Patch Call processes with Redis caching.",
+        "Developed and deployed microservices using Spring Boot and Docker, enabling the system to handle a 50% increase in user traffic with high availability and fault tolerance.",
+        "Implemented real-time event processing with Kafka, improving message delivery efficiency by 30% and enhancing monitoring capabilities.",
+        "Optimized backend database performance by reducing PostgreSQL query execution times by 30% through indexing strategies.",
+        "Increased operational efficiency by 20% with performance monitoring tools using Prometheus and Grafana, reducing system downtime and identifying issues proactively.",
+        "Streamlined CI/CD processes with Jenkins, reducing deployment cycles by 20% and improving release quality."
+      ]
+    }
+  ],
+  "certifications": [
+    "Google Cloud Professional Cloud Architect Cert Prep: 1 Designing and Planning a Cloud Solution Architecture (LinkedIn Learning)",
+    "Identity and Access Management (LinkedIn Learning)"
+  ],
+  "education": {
+    "degree": "Bachelor of Technology in Computer Science and Engineering",
+    "institution": "Visvesvaraya Technological University, Bangalore, India",
+    "duration": "2018 - 2022",
+    "relevant_coursework": ["Data Structures", "Algorithms", "Database Systems", "Operating System"]
+  }
+}
